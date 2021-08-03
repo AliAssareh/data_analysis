@@ -1,0 +1,5 @@
+Martingle:
+On 20 batches of 71 unseen samples prediction result was as follows:
+mean accuracy: 0.447887323943662   ,   by using it inverted --> 0.552112676056338
+accuracy std: 0.07540145810886857
+ARIMA:
